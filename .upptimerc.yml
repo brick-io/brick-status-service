@@ -11,14 +11,6 @@ sites:
   - name: Authentication Production
     url: https://api.onebrick.io/v3/payments/sc/health
 
-  # SANDBOX 
-  - name: Disbursement Sandbox
-    url: https://sandbox.onebrick.io/v2/payments/gs/disbursements/health
-  - name: Acceptance Sandbox
-    url: https://sandbox.onebrick.io/v2/payments/acceptance/health
-  - name: Authentication Sandbox
-    url: https://sandbox.onebrick.io/v3/payments/sc/health
-
   # OTHERS
   - name: Client Dashboard
     url: https://app.onebrick.io
