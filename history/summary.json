@@ -22,36 +22,40 @@
     "url": "https://api.onebrick.io/v2/payments/acceptance/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.onebrick.io.ico",
     "slug": "acceptance-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 221,
+    "time": 211,
+    "timeDay": 220,
     "timeWeek": 221,
-    "timeMonth": 210,
-    "timeYear": 210,
-    "dailyMinutesDown": {}
+    "timeMonth": 211,
+    "timeYear": 211,
+    "dailyMinutesDown": {
+      "2026-03-16": 0
+    }
   },
   {
     "name": "Authentication Production",
     "url": "https://api.onebrick.io/v3/payments/sc/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.onebrick.io.ico",
     "slug": "authentication-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 222,
+    "time": 211,
+    "timeDay": 221,
     "timeWeek": 221,
-    "timeMonth": 210,
-    "timeYear": 210,
-    "dailyMinutesDown": {}
+    "timeMonth": 211,
+    "timeYear": 211,
+    "dailyMinutesDown": {
+      "2026-03-16": 0
+    }
   },
   {
     "name": "Client Dashboard",
