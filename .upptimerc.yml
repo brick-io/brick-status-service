@@ -14,9 +14,6 @@ sites:
   # OTHERS
   - name: Client Dashboard
     url: https://app.onebrick.io
-  - name: Brick Registry
-    url: https://reg.onebrick.io
-  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
