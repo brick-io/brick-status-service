@@ -14,8 +14,8 @@ sites:
   # OTHERS
   - name: Client Dashboard
     url: https://app.onebrick.io
-  - name: Temporary Service
-    url: https://api.onebrick.test/v1/temporary
+  - name: Brick Registry
+    url: https://reg.onebrick.io
   
 
 status-website:
