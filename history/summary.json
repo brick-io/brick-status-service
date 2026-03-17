@@ -59,8 +59,8 @@
   },
   {
     "name": "Client Dashboard",
-    "url": "https://app.onebrick.io",
-    "icon": "https://icons.duckduckgo.com/ip3/app.onebrick.io.ico",
+    "url": "https://api.onebrick.io/v2/exp/healthcheck",
+    "icon": "https://icons.duckduckgo.com/ip3/api.onebrick.io.ico",
     "slug": "client-dashboard",
     "status": "up",
     "uptime": "100.00%",
@@ -74,25 +74,5 @@
     "timeMonth": 1288,
     "timeYear": 1288,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Brick Registry",
-    "url": "https://reg.onebrick.io",
-    "icon": "https://icons.duckduckgo.com/ip3/reg.onebrick.io.ico",
-    "slug": "brick-registry",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 803,
-    "timeDay": 803,
-    "timeWeek": 803,
-    "timeMonth": 803,
-    "timeYear": 803,
-    "dailyMinutesDown": {
-      "2026-03-17": 4
-    }
   }
 ]
