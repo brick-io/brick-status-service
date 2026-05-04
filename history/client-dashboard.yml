@@ -1,7 +1,7 @@
 url: https://api.onebrick.io/v2/exp/healthcheck
-status: up
-code: 200
-responseTime: 240
-lastUpdated: 2026-05-04T15:56:31.795Z
+status: down
+code: 502
+responseTime: 223
+lastUpdated: 2026-05-04T17:17:35.348Z
 startTime: 2026-03-03T06:43:07.507Z
 generator: Upptime <https://github.com/upptime/upptime>
