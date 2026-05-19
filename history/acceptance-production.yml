@@ -1,7 +1,7 @@
 url: https://api.onebrick.io/v2/payments/acceptance/health
 status: up
 code: 200
-responseTime: 246
-lastUpdated: 2026-05-18T23:30:13.607Z
+responseTime: 236
+lastUpdated: 2026-05-19T23:32:13.205Z
 startTime: 2026-03-03T06:43:04.102Z
 generator: Upptime <https://github.com/upptime/upptime>
