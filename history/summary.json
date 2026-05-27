@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 748,
-    "timeDay": 605,
-    "timeWeek": 767,
-    "timeMonth": 738,
-    "timeYear": 748,
+    "time": 750,
+    "timeDay": 938,
+    "timeWeek": 771,
+    "timeMonth": 748,
+    "timeYear": 750,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.onebrick.io.ico",
     "slug": "acceptance-production",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
-    "time": 217,
-    "timeDay": 185,
-    "timeWeek": 219,
-    "timeMonth": 218,
-    "timeYear": 217,
-    "dailyMinutesDown": {
-      "2026-03-16": 62
-    }
+    "uptimeYear": "100.00%",
+    "time": 218,
+    "timeDay": 250,
+    "timeWeek": 221,
+    "timeMonth": 220,
+    "timeYear": 218,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Authentication Production",
@@ -43,21 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.onebrick.io.ico",
     "slug": "authentication-production",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 217,
-    "timeDay": 185,
-    "timeWeek": 219,
-    "timeMonth": 218,
-    "timeYear": 217,
-    "dailyMinutesDown": {
-      "2026-04-15": 29,
-      "2026-04-14": 44,
-      "2026-03-16": 62
-    }
+    "uptimeYear": "100.00%",
+    "time": 218,
+    "timeDay": 249,
+    "timeWeek": 221,
+    "timeMonth": 220,
+    "timeYear": 218,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Client Dashboard",
@@ -65,26 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.onebrick.io.ico",
     "slug": "client-dashboard",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "99.63%",
-    "time": 548,
-    "timeDay": 202,
-    "timeWeek": 241,
-    "timeMonth": 519,
-    "timeYear": 548,
-    "dailyMinutesDown": {
-      "2026-05-22": 69,
-      "2026-05-17": 25,
-      "2026-05-06": 11,
-      "2026-05-05": 55,
-      "2026-05-04": 85,
-      "2026-05-03": 44,
-      "2026-05-02": 43,
-      "2026-05-01": 59,
-      "2026-04-30": 60
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 546,
+    "timeDay": 263,
+    "timeWeek": 243,
+    "timeMonth": 520,
+    "timeYear": 546,
+    "dailyMinutesDown": {}
   }
 ]
